@@ -9,3 +9,7 @@ here are some cream puffs I baked
 ``` javascript
 var puff = "these pastries are filled with salted burnt honey osmanthus cream";
 ```
+
+- [x] set oven to 375F
+- [x] place frozen choux dough onto baking sheet lined with silicone mat
+- [ ] leave to dethaw for 20 min
